@@ -1,3 +1,3 @@
 # My PoSh logics
 
-Write-Output "This is the logics"
+Write-Warning "Warning! EMEA is under siege!"
